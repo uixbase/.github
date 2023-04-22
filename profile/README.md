@@ -1,6 +1,6 @@
 <p align="center">
     <a href="#" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/110803437?s=200&v=4" width="400"/>
+        <img src="https://avatars.githubusercontent.com/u/99942411?s=200&v=4" width="400"/>
     </a>
 </p>
 
