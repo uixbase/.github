@@ -1,6 +1,6 @@
 <p align="center">
     <a href="#" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/99942411?s=200&v=4" width="400"/>
+        <img src="https://github.com/uixbase/uixbase-laravel/raw/master/squard-Logo.svg" width="400"/>
     </a>
 </p>
 
@@ -36,9 +36,9 @@ iMsophat is a web application builder, components library. We believe developmen
                     </sub>
                 </a>
                 <br />
-                <a href="https://github.com/iMSophat/anime/discussions" title="Answering Questions">💬</a> 
-                <a href="https://github.com/iMSophat/anime/commits?author=pphatDev" title="Documentation">📖</a> 
-                <a href="https://github.com/iMSophat/anime/pulls?q=is%3Apr+reviewed-by%3pphatDev" title="Reviewed Pull Requests">👀</a> 
+                <a href="https://github.com/uixbase/uixbase-laravel/discussions" title="Answering Questions">💬</a> 
+                <a href="https://github.com/uixbase/uixbase-laravel/commits?author=pphatDev" title="Documentation">📖</a> 
+                <a href="https://github.com/uixbase/uixbase-laravel/pulls?q=is%3Apr+reviewed-by%3pphatDev" title="Reviewed Pull Requests">👀</a> 
                 <br />
                 <img src="https://github-readme-stats.vercel.app/api?username=pphatDev&show_icons=true" width="100%">
                 <br />
@@ -46,62 +46,22 @@ iMsophat is a web application builder, components library. We believe developmen
             </td>
             <td align="center">
                 <a href="#">
-                    <img src="https://avatars.githubusercontent.com/u/128199454?v=4" width="100px;" alt="Kent C. Dodds"/>
+                    <img src="https://avatars.githubusercontent.com/u/80959071?v=4" width="100px;" alt="Kent C. Dodds"/>
                     <br />
                     <sub>
-                        <a href="https://github.com/cthuch"> 
-                            <b>Chh. Sithuch</b>
+                        <a href="https://github.com/HoeunPichet"> 
+                            <b>HoeunPichet</b>
                         </a>
                     </sub>
                 </a>
                 <br />
-                <a href="https://github.com/iMSophat/anime/discussions" title="Answering Questions">💬</a> 
-                <a href="https://github.com/iMSophat/anime/commits?author=cthuch" title="Documentation">📖</a> 
-                <a href="https://github.com/iMSophat/anime/pulls?q=is%3Apr+reviewed-by%cthuch" title="Reviewed Pull Requests">👀</a> 
+                <a href="https://github.com/uixbase/uixbase-laravel/discussions" title="Answering Questions">💬</a> 
+                <a href="https://github.com/uixbase/uixbase-laravel/commits?author=HoeunPichet" title="Documentation">📖</a> 
+                <a href="https://github.com/uixbase/uixbase-laravel/pulls?q=is%3Apr+reviewed-by%HoeunPichet" title="Reviewed Pull Requests">👀</a> 
                 <br />
-                <img src="https://github-readme-stats.vercel.app/api?username=cthuch&show_icons=true" width="100%">
+                <img src="https://github-readme-stats.vercel.app/api?username=HoeunPichet&show_icons=true" width="100%">
                 <br />
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cthuch&layout=compact" width="100%">
-            </td>
-            </tr>
-            <tr>
-            <td align="center">
-                <a href="#">
-                    <img src="https://avatars.githubusercontent.com/u/88573482?v=4" width="100px;" alt="Kent C. Dodds"/>
-                    <br />
-                    <sub>
-                        <a href="https://github.com/ThyThary"> 
-                            <b>Th. Thary</b>
-                        </a>
-                    </sub>
-                </a>
-                <br />
-                <a href="https://github.com/iMSophat/anime/discussions" title="Answering Questions">💬</a> 
-                <a href="https://github.com/iMSophat/anime/commits?author=ThyThary" title="Documentation">📖</a> 
-                <a href="https://github.com/iMSophat/anime/pulls?q=is%3Apr+reviewed-by%ThyThary" title="Reviewed Pull Requests">👀</a> 
-                <br />
-                <img src="https://github-readme-stats.vercel.app/api?username=ThyThary&show_icons=true" width="100%">
-                <br />
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThyThary&layout=compact" width="100%">
-            </td>
-            <td align="center">
-                <a href="#">
-                    <img src="https://avatars.githubusercontent.com/u/114801328?v=4" width="100px;" alt="Kent C. Dodds"/>
-                    <br />
-                    <sub>
-                        <a href="https://github.com/KolHeang"> 
-                            <b>Ko. Heang</b>
-                        </a>
-                    </sub>
-                </a>
-                <br />
-                <a href="https://github.com/iMSophat/anime/discussions" title="Answering Questions">💬</a> 
-                <a href="https://github.com/iMSophat/anime/commits?author=KolHeang" title="Documentation">📖</a> 
-                <a href="https://github.com/iMSophat/anime/pulls?q=is%3Apr+reviewed-by%KolHeang" title="Reviewed Pull Requests">👀</a> 
-                <br />
-                <img src="https://github-readme-stats.vercel.app/api?username=KolHeang&show_icons=true" width="100%">
-                <br />
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KolHeang&layout=compact" width="100%">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoeunPichet&layout=compact" width="100%">
             </td>
         </tr>
     </tbody>
